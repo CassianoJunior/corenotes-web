@@ -57,6 +57,7 @@
 <div align="center">
   <img src="docs/images/login-screen-min.png" width="250px" />
   <img src="docs/images/main-screen-min.png" width="250px" />
+  <img src="docs/images/preview.gif" />
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -66,6 +67,10 @@
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Tailwind][TailwindCSS]][TailwindCSS-url]
+* [![React Hook Form][react-hook-form]][react-hook-form-url]
+* [![Zod][zod]][zod-url]
+* [![React Query][react-query]][react-query-url]
+* [![Axios][axios]][axios-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,11 +169,17 @@ Project Link: [https://github.com/cassianojunior/corenotes-web](https://github.c
 [issues-url]: https://github.com/cassianojunior/corenotes-web/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/cassianojunior
-[login-screen]: docs/images/login-screen-min.png
-[main-screen]: docs/images/main-screen-min.png
-[Next.js]: https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white
+[Next.js]: https://img.shields.io/badge/Next-000000?logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Tailwindcss]: https://img.shields.io/badge/TailwindCSS-35495E?logo=tailwindcss&logoColor=06B6D4
+[Tailwindcss]: https://img.shields.io/badge/TailwindCSS-0f172a?logo=tailwindcss&logoColor=06B6D4
 [Tailwindcss-url]: https://tailwindcss.com/
+[react-hook-form]: https://img.shields.io/badge/React_Hook_Form-081229?logo=reacthookform&logoColor=EC5990
+[react-hook-form-url]: https://react-hook-form.com/
+[zod]: https://img.shields.io/badge/Zod-283339?logo=zod&logoColor=3E67B1
+[zod-url]:https://zod.dev
+[react-query]: https://img.shields.io/badge/React_Query-111827?logo=reactquery&logoColor=FF4154
+[react-query-url]: https://react-query.tanstack.com/
+[axios]: https://img.shields.io/badge/Axios-373747?logo=axios&logoColor=5A29E4
+[axios-url]: https://axios-http.com/
