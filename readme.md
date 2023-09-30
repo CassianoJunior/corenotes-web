@@ -14,7 +14,7 @@
 
 <h3 align="center">CoreNotes</h3>
   <p align="center">
-    Project for a job opening for a note management system
+    Project for a job opening at Corelab that consists a note management system
     <br />
     <a href="https://github.com/cassianojunior/corenotes-web"><strong>Explore the docs »</strong></a>
     <br />
@@ -58,8 +58,6 @@
   <img src="docs/images/login-screen-min.png" width="250px" />
   <img src="docs/images/main-screen-min.png" width="250px" />
 </div>
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `cassianojunior`, `corenotes-web`, `twitter_handle`, `linkedin_username`, `gmail`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
