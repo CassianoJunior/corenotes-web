@@ -48,7 +48,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -83,10 +82,6 @@
   You can find and setup the API [here](https://github.com/cassianojunior/corenotes-api.git)
 
 * Node
-  
-  ```bash
-  node --version
-  ```
 
   You can install Node from [here](https://nodejs.org/en/download/)
 

@@ -15,5 +15,3 @@
 - [x] Skeleton loaders
 - [x] Logout
 
-> [!NOTE]
-> asduabd
